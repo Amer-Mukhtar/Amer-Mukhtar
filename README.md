@@ -1,4 +1,4 @@
-<img src="https://github.com/Amer-Mukhtar/Amer-Mukhtar/raw/main/Coding_Gif.gif" alt="Coding GIF" >
+<img src="https://github.com/Amer-Mukhtar/Amer-Mukhtar/raw/main/Coding_Gif.gif" alt="Coding GIF" width="100%" >
 
 <h1 align="center">Hi 👋, I'm Amer Mukhtar</h1>
 <h3 align="center">A passionate Mobile App Developer</h3>
