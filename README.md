@@ -4,7 +4,8 @@
 <h1 align="center">Hi 👋, I'm Amer Mukhtar</h1>
 <h3 align="center">A passionate Mobile App Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amer-mukhtar&label=Profile%20views&color=0e75b6&style=flat" alt="amer-mukhtar" /> </p>
+<p align="left"> <img src="![image](https://github.com/user-attachments/assets/7ff1aa1b-2608-4236-bb40-773e9237d756)
+" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amer-mukhtar" alt="amer-mukhtar" /></a> </p>
 
