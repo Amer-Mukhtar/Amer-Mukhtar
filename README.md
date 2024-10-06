@@ -1,3 +1,7 @@
+
+<img alt-"Coding" src="![image](https://github.com/user-attachments/assets/d6bd797f-628c-449d-a26b-7d55ec0472e4)
+">
+
 <h1 align="center">Hi 👋, I'm Amer Mukhtar</h1>
 <h3 align="center">A passionate Mobile App Developer</h3>
 
