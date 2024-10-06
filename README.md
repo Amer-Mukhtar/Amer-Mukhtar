@@ -1,11 +1,8 @@
 
-<img alt-"Coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCyberpunk%2Fcomments%2F17orhba%2Fcoding_by_pixel_jeff%2F&psig=AOvVaw3uEhvgQdOAPiKiLgMRVoXe&ust=1728332891241000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDGlf3L-ogDFQAAAAAdAAAAABAL">
 
 <h1 align="center">Hi 👋, I'm Amer Mukhtar</h1>
 <h3 align="center">A passionate Mobile App Developer</h3>
 
-<p align="left"> <img src="![image](https://github.com/user-attachments/assets/7ff1aa1b-2608-4236-bb40-773e9237d756)
-" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amer-mukhtar" alt="amer-mukhtar" /></a> </p>
 
