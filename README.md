@@ -1,6 +1,5 @@
 
-<img alt-"Coding" src="![image](https://github.com/user-attachments/assets/d6bd797f-628c-449d-a26b-7d55ec0472e4)
-">
+<img alt-"Coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCyberpunk%2Fcomments%2F17orhba%2Fcoding_by_pixel_jeff%2F&psig=AOvVaw3uEhvgQdOAPiKiLgMRVoXe&ust=1728332891241000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDGlf3L-ogDFQAAAAAdAAAAABAL">
 
 <h1 align="center">Hi 👋, I'm Amer Mukhtar</h1>
 <h3 align="center">A passionate Mobile App Developer</h3>
