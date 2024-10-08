@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Amer Mukhtar</h1>
 <img src="https://github.com/Amer-Mukhtar/Amer-Mukhtar/raw/main/Coding1.gif" alt="Coding GIF" width="100%" >
-<h3 align="center">A passionate Mobile App Developer</h3>
+<h3 align="center">A Passionate Mobile App Developer</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amer-mukhtar" alt="amer-mukhtar" /></a> </p>
