@@ -37,4 +37,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # Use the PAT here if required
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}  # Use the PAT if GITHUB_TOKEN doesn't work
