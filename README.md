@@ -34,6 +34,8 @@
 
 ###
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amer-mukhtar" alt="amer-mukhtar" /></a> </p>
+
 <p align="left">- 📚 I'm currently learning Fluttter Animations<br>- ⚡ In my free time I read <br>- 🌱 I’m currently learning Flutter | Firebase | Figma<br>- 📫 You can contact me on my email : amermukhtar21@gmail.com</p>
 
 ###
