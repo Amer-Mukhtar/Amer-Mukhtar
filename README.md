@@ -37,7 +37,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amer-mukhtar" alt="amer-mukhtar" /></a> </p>
 
-<p align="left">- 📚 I'm currently learning Fluttter Animations<br>- ⚡ In my free time I read <br>- 🌱 I’m currently learning Flutter | Firebase <br>- 📫 You can contact me on my email : amermukhtar21@gmail.com</p>
+
 
 
 
@@ -70,8 +70,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
